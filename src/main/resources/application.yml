@@ -1,0 +1,12 @@
+
+person:
+    firstName: tianyao
+    birth: 2018/5/5
+    map: {k1: v1,k2: v2}
+    list:
+      - dog
+      - cat
+    dog:
+      lastName: 大黄
+      age: 2
+    age: 20
